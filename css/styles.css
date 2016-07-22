@@ -12,6 +12,12 @@
   left: 50%;
   font-size: 2em;
 }
-.large-9 {
-  float: right;
+.row {
+  position: relative;
+}
+.menu {
+  border: 1px solid black;
+}
+.menu li img icon {
+  display: inline-block;
 }
