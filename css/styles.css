@@ -10,15 +10,30 @@
   color: #fff;
   top: 10%;
   left: 50%;
-  font-size: 2em;
+  font-size: 200%;
 }
 .row {
   position: relative;
 }
-.menu {
-  border: 1px solid black;
+.large-3 {
+  /*border: 1px solid black;*/
+  margin-top: 7%;
+  background: #e6e6e6;
+  font-size: 1.2em;
+  text-align: right;
+  /*background: linear-gradient(to right, #bfbfbf , #b3b3b3);*/
+}
+.large-3 img {
+  margin-left: 10%;
 }
 .header img {
   float: left;
   margin: 2%;
+}
+.large-9 {
+  margin-top: 7%;
+  margin-left: 1%;
+}
+ul {
+  padding-bottom: 100%;
 }
